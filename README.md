@@ -8,6 +8,6 @@ Syntax: "## This is a heading"
 
 Syntax: "### This is a smaller heading"
 
-*lists
-*can be made
-*easily
+  *lists
+  *can be made
+  *easily
